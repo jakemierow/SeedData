@@ -1,0 +1,12 @@
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.csprojAssemblyReference.cache
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.AssemblyInfoInputs.cache
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.AssemblyInfo.cs
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.csproj.CoreCompileInputs.cache
+/Users/Jake/VisualStudioProjects/SeedData/bin/Debug/netcoreapp3.1/SeedData.deps.json
+/Users/Jake/VisualStudioProjects/SeedData/bin/Debug/netcoreapp3.1/SeedData.runtimeconfig.json
+/Users/Jake/VisualStudioProjects/SeedData/bin/Debug/netcoreapp3.1/SeedData.runtimeconfig.dev.json
+/Users/Jake/VisualStudioProjects/SeedData/bin/Debug/netcoreapp3.1/SeedData.dll
+/Users/Jake/VisualStudioProjects/SeedData/bin/Debug/netcoreapp3.1/SeedData.pdb
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.dll
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.pdb
+/Users/Jake/VisualStudioProjects/SeedData/obj/Debug/netcoreapp3.1/SeedData.genruntimeconfig.cache
